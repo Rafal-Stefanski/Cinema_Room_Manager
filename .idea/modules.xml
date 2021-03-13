@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Cinema_Room_Manager.Problems-Division.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Cinema_Room_Manager.Problems-Division.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Cinema_Room_Manager.Problems-Division.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Cinema_Room_Manager.Problems-Division.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Cinema_Room_Manager.Problems-Division.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Cinema_Room_Manager.Problems-Division.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Cinema_Room_Manager.Problems-Sum_of_numbers_in_the_range.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Cinema_Room_Manager.Problems-Sum_of_numbers_in_the_range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Cinema_Room_Manager.Problems-Sum_of_numbers_in_the_range.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Cinema_Room_Manager.Problems-Sum_of_numbers_in_the_range.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Cinema_Room_Manager.Problems-Sum_of_numbers_in_the_range.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers in the range/Cinema_Room_Manager.Problems-Sum_of_numbers_in_the_range.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
